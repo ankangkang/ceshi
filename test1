@@ -1,0 +1,4 @@
+测试一个项目文件
+function add(){
+alert("测试");
+}
